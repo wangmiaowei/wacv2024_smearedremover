@@ -1,4 +1,4 @@
-# Self-Annotated 3D Geometric Learning for Smeared Points Removal
+# Self-Annotated 3D Geometric Learning for Smeared Points Removal(WACV2024)
 
 ### [Project Page](https://github.com/wangmiaowei/wacv2024_smearedremover.git)  | [Paper](https://arxiv.org/abs/2311.09029) | [Data](https://github.com/wangmiaowei/wacv2024_smearedremover.git)
 
