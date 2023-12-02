@@ -30,9 +30,7 @@ If you find the repo useful for your research, please consider citing our paper:
 @misc{wang2023selfannotated,
       title={Self-Annotated 3D Geometric Learning for Smeared Points Removal}, 
       author={Miaowei Wang and Daniel Morris},
-      year={2023},
-      eprint={2311.09029},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      booktitle={IEEE Winter Conference on Applications of Computer Vision (WACV)},
+      year={2024}
 }
 ```
